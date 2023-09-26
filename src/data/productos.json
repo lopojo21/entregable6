@@ -1,0 +1,50 @@
+[
+  {
+    "marca": "Samsung",
+    "modelo": "A03",
+    "precio": 30499,
+    "id": 1,
+    "fimg": "img/sA03.PNG",
+    "bimg": "img/fA03.png"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "A13",
+    "precio": 41999,
+    "id": 2,
+    "fimg": "img/sA13.PNG",
+    "bimg": "img/fA13.png"
+  },
+  {
+    "marca": "Samsung",
+    "modelo": "A23",
+    "precio": 58999,
+    "id": 3,
+    "fimg": "img/sA23.PNG",
+    "bimg": "img/fA23.png"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G22",
+    "precio": 40499,
+    "id": 4,
+    "fimg": "img/MG22.PNG",
+    "bimg": "img/fG22.png"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G31",
+    "precio": 38099,
+    "id": 5,
+    "fimg": "img/MG31.PNG",
+    "bimg": "img/fG31.png"
+  },
+  {
+    "marca": "Motorola",
+    "modelo": "G51",
+    "precio": 60587,
+    "id": 6,
+    "fimg": "img/MG51.PNG",
+    "bimg": "img/fG51.png"
+  }
+]
