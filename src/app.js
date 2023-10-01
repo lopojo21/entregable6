@@ -64,7 +64,7 @@ io.on('connection', socket=>{
     socket.on('nuevoMensaje',async (mensaje)=>{
         await (messageModelo.create(mensaje))
         console.log(mensaje)    
-    socket.emit('llegoMensaje',mensaje)
+        io.emit('llegoMensaje',mensaje)
     });
 
 
